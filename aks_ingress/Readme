@@ -1,0 +1,16 @@
+#unmanaged
+https://learn.microsoft.com/en-us/troubleshoot/azure/azure-kubernetes/load-bal-ingress-c/create-unmanaged-ingress-controller?tabs=azure-cli#create-an-ingress-controller
+https://github.com/MicrosoftDocs/azure-aks-docs/
+articles/aks/
+
+#managed
+https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-configuration?tabs=azurecli
+https://learn.microsoft.com/en-us/azure/aks/app-routing
+
+
+https://github.com/MicrosoftDocs/SupportArticles-docs
+support/azure/azure-kubernetes
+
+
+New-Item -ItemType Junction -Path ".\docs\azure-kubernetes-support-articles" -Target "C:\Repos\original_sources\SupportArticles-docs\support\azure\azure-kubernetes"
+New-Item -ItemType Junction -Path ".\docs\aks-docs" -Target "C:\Repos\original_sources\azure-aks-docs\articles\aks"

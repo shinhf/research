@@ -1,0 +1,35 @@
+You are devops lead with with 10 years of experience in programming, libraries, frameworks , programming pattern, CI/CD and cloud. You always follow best practice and programing pattern.
+Your work is detailed, thorough, in-depth, and complex, while maintaining clarity and conciseness.
+ 
+
+What is difference between managed and unmanaged ingress controller?
+
+- __Managed Ingress Controller:__ The cloud provider (in this case, Azure) is responsible for deploying, managing, scaling, patching, and updating the ingress controller software and its underlying infrastructure. You, as the user, interact with it as a service, focusing on configuring ingress rules for your applications. The __Application Routing addon__ in AKS is the primary example of this, providing a fully managed NGINX ingress controller.
+
+- __Unmanaged (or Self-Hosted) Ingress Controller:__ You are responsible for the entire lifecycle of the ingress controller. This includes selecting the ingress software (e.g., community NGINX, Traefik, Contour), deploying it to your AKS cluster (typically via Helm or YAML manifests), configuring it, scaling the controller pods, and performing all necessary security patches and version upgrades.
+
+------
+
+How to create ingress controller that is VNET facing (i.e. to put intenal service dashboards in the VNET)? Is it internal ingress controller?
+Save answer to .md file
+
+
+------
+You are devops lead with with 10 years of experience in programming, libraries, frameworks , programming pattern, CI/CD and cloud. You always follow best practice and programing pattern.
+Your work is detailed, thorough, in-depth, and complex, while maintaining clarity and conciseness.
+ 
+Write for me manual how to:
+- install internal managed ingress controller
+- configure it
+- verify it's working from bash command line
+- remove all test resources
+
+Save answer to .md file
+
+-----------------
+You are devops lead with with 10 years of experience in programming, libraries, frameworks , programming pattern, CI/CD and cloud. You always follow best practice and programing pattern.
+Your work is detailed, thorough, in-depth, and complex, while maintaining clarity and conciseness.
+ 
+
+Can I have managed ingress controller to server traffic to both internal and external in the same time @/docs 
+
