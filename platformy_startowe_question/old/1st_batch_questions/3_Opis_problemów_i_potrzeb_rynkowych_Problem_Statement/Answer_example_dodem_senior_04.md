@@ -29,7 +29,7 @@ Potrzeba
 Poprowadź mnie teraz, na moim ekranie, krok po kroku i bezpiecznie. Wsparcie ma być aktywne, kontekstowe, uniwersalne dla banku, ZUS, poczty i komunikatorów, prywatne oraz dostępne od ręki.
 
 Dlaczego teraz
-Połączenie technologii rozpoznawania interfejsów, modeli LLM i kuratowanej bazy wiedzy pozwala po raz pierwszy dostarczyć ekonomicznie skalowalne wsparcie on screen w czasie rzeczywistym, które eliminuje barierę finalizacji czynności.
+Połączenie technologii rozpoznawania interfejsów, modeli LLM i anej bazy wiedzy pozwala po raz pierwszy dostarczyć ekonomicznie skalowalne wsparcie on screen w czasie rzeczywistym, które eliminuje barierę finalizacji czynności.
 
 Wskaźniki sukcesu z perspektywy problemu
 Więcej zadań ukończonych bez pomocy, mniej błędów w logowaniu i płatnościach, krótszy czas realizacji typowych czynności, mniej interwencji rodziny i instytucji.

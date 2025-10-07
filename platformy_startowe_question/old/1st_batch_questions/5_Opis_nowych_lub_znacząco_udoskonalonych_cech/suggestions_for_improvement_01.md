@@ -9,7 +9,7 @@ Należy skonsolidować powiązane punkty i skupić się na 4-5 kluczowych, techn
 
 **Przykład konsolidacji:**
 *   Punkty **1) Kontekstowe prowadzenie**, **2) Wielośrodowiskowość** oraz **11) Zero-authoring** można połączyć w jedną, nadrzędną cechę: **"Uniwersalny silnik kontekstowego wsparcia w UI bez integracji po stronie dostawców"**.
-*   Punkty **3) Dodem Memory** i **4) Silnik instrukcji zadaniowych** można opisać razem jako **"'Dodem Memory' – kuratowana baza wiedzy z silnikiem AI gwarantującym trafność instrukcji"**.
+*   Punkty **3) Dodem Memory** i **4) Silnik instrukcji zadaniowych** można opisać razem jako **"'Dodem Memory' – ana baza wiedzy z silnikiem AI gwarantującym trafność instrukcji"**.
 *   Punkty **6) Privacy by design** i **8) Szyny bezpieczeństwa** można połączyć w filar **"'Privacy & Safety by Design' – unikalne mechanizmy ochrony danych i prewencji błędów"**.
 
 Dzięki temu odpowiedź stanie się bardziej przejrzysta i skoncentrowana na najważniejszych innowacjach, które mają największy wpływ na punktację.

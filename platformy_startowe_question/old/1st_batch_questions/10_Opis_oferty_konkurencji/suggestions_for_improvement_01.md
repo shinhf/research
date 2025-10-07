@@ -21,7 +21,7 @@ To proste uzupełnienie pokazuje, że aplikujący nie tylko rozumie swój produk
 **Przykład implementacji:**
 *   Można dodać sekcję "Potencjalne zagrożenia i jak Dodem na nie odpowiada":
     > "**Zagrożenia:** Największym zagrożeniem jest potencjalne wejście na rynek dużych graczy technologicznych (np. Microsoft z rozbudowanym Copilotem, Apple z nowymi funkcjami AI w systemie), którzy mogliby zintegrować podobne funkcje bezpośrednio w swoich systemach operacyjnych.
-    > **Nasza strategia obronna:** Dodem buduje przewagę poprzez głęboką specjalizację w segmencie seniorów – tworząc kuratowaną, zweryfikowaną bazę wiedzy dla kluczowych dla nich aplikacji (bankowość, ZUS, e-pacjent) oraz budując zaufanie i kanały dystrybucji (UTW, NGO), czego globalni gracze nie będą w stanie szybko skopiować."
+    > **Nasza strategia obronna:** Dodem buduje przewagę poprzez głęboką specjalizację w segmencie seniorów – tworząc aną, zweryfikowaną bazę wiedzy dla kluczowych dla nich aplikacji (bankowość, ZUS, e-pacjent) oraz budując zaufanie i kanały dystrybucji (UTW, NGO), czego globalni gracze nie będą w stanie szybko skopiować."
 
 ### Sugestia 3: Wzmocnienie argumentu "Prywatność by design"
 

@@ -2,7 +2,7 @@
    Podpowiedzi są przypinane deterministycznie do konkretnych elementów interfejsu w aplikacjach desktopowych i w przeglądarce. Stabilność pozycjonowania zachowana przy zmianie rozmiaru okna, przewijaniu i przełączaniu kart.
 2) Wielośrodowiskowość bez integracji po stronie dostawców
    Działa w Windows i macOS, zarówno w aplikacjach natywnych, jak i webowych. Brak vendor lock-in i brak konieczności wdrożeń po stronie banku, ZUS czy poczty. Czas uruchomienia nowej aplikacji: od godzin do 2–3 dni (bez tygodniowego authoringu).
-3) Dodem Memory (RAG na kuratowanej wiedzy)
+3) Dodem Memory (RAG na anej wiedzy)
    Automatyczne pozyskiwanie instrukcji z oficjalnych manuali, PDF i transkryptów wideo. Reguły walidacji eliminują błędy generatywne. Aktualizacja domeny wiedzy bez publikowania nowej wersji klienta.
 4) Silnik instrukcji zadaniowych
    LLM używany do skracania i upraszczania języka oraz dopasowania do bieżącego kroku. Instrukcje są zwięzłe, jednokrokowe, z jasnym “co” i “gdzie”. Target: TTI do 1,5 s, trafność ≥ 95 proc.

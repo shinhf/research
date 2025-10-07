@@ -51,7 +51,7 @@ asystentów o elementy guidance, intensyfikacja działań enterprise DAP w
 segmencie konsumenckim.
 
 **Nasza strategia obronna:** głęboka
-specjalizacja w segmencie 60 plus, kuratowana i zweryfikowana baza wiedzy dla
+specjalizacja w segmencie 60 plus, ana i zweryfikowana baza wiedzy dla
 krytycznych domen bankowość, ZUS, e-zdrowie, rozbudowa kanałów dystrybucji UTW,
 NGO, placówki lokalne, a także przewagi prywatności i tryb offline. Te elementy
 są trudne do szybkiego skopiowania przez graczy horyzontalnych i wzmacniają

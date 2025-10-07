@@ -8,7 +8,7 @@ Wielkość i adresowalność: Globalna populacja 60 plus to ok. 1 078 mln osób.
 
 Sieć instytucji (B2B2C): Szacunkowo ok. 100 000 UTW globalnie, z czego w krajach rozwiniętych ok. 20 000. Plan operacyjny zakłada pilotaże w 10 procent tej bazy, czyli ok. 2 000 placówek. Dodatkowo ok. 50 000 community centers i domów kultury, z planowaną penetracją 5 procent, czyli ok. 2 500 partnerstw.
 
-Propozycja wartości a rynek: Rynek potrzebuje wsparcia kontekstowego na ekranie, które działa w każdej aplikacji desktopowej i przeglądarce i nie wymaga ręcznego authoringu ścieżek. Dodem zapewnia aktywne dymki krok po kroku z deterministycznym przypięciem do elementów UI oraz kuratowaną bazę wiedzy, co odpowiada na dominujące bariery seniorów i rodzin.
+Propozycja wartości a rynek: Rynek potrzebuje wsparcia kontekstowego na ekranie, które działa w każdej aplikacji desktopowej i przeglądarce i nie wymaga ręcznego authoringu ścieżek. Dodem zapewnia aktywne dymki krok po kroku z deterministycznym przypięciem do elementów UI oraz aną bazę wiedzy, co odpowiada na dominujące bariery seniorów i rodzin.
 
 Otoczenie konkurencyjne: Alternatywy to tutoriale wideo i FAQ, infolinie oraz enterprise DAP (np. WalkMe, UserGuiding, Stonly) czy chatboty tekstowe. Różnicujemy się brakiem potrzeby ręcznej konfiguracji scenariuszy, działaniem poza przeglądarką i precyzyjnym pozycjonowaniem wskazówek w UI, co jest kluczowe w segmencie konsumenckim 60 plus.
 

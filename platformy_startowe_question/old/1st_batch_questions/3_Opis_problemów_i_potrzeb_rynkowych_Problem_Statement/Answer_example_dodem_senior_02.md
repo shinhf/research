@@ -21,7 +21,7 @@ Jaka jest jawna, sformułowana potrzeba?
 To oznacza: wsparcie aktywne (nie pasywne), kontekstowe (świadome aplikacji i miejsca w procesie), uniwersalne (działa w banku, ZUS, poczcie, komunikatorach, przeglądarkach i programach desktop), prywatne (bez ujawniania danych), dostępne od ręki i powtarzalne tak długo, jak potrzeba.
 Dlaczego moment rynkowy jest wyjątkowo korzystny?
 •	Jednoczesny wzrost kohorty 60+ i presja cyfryzacji usług tworzą rosnącą lukę kompetencyjną.
-•	Połączenie technologii rozpoznawania interfejsów, modeli LLM i kuratowanych baz wiedzy umożliwia po raz pierwszy dostarczenie ekonomicznie skalowalnego, kontekstowego wsparcia w czasie rzeczywistym bezpośrednio na ekranie użytkownika, które eliminuje barierę finalizacji czynności.
+•	Połączenie technologii rozpoznawania interfejsów, modeli LLM i anych baz wiedzy umożliwia po raz pierwszy dostarczenie ekonomicznie skalowalnego, kontekstowego wsparcia w czasie rzeczywistym bezpośrednio na ekranie użytkownika, które eliminuje barierę finalizacji czynności.
 Wskaźnik sukcesu z perspektywy problemu, nie funkcji:
 •	Więcej zadań ukończonych bez pomocy rodziny/infolinii.
 •	Mniej błędów w krytycznych krokach (logowanie, płatności).

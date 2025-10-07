@@ -82,7 +82,7 @@ To jest sedno odpowiedzi. Należy jasno sformułować, co wyróżnia Dodem, łą
     1.  **Uniwersalność platformy:** Działa w całym systemie operacyjnym (desktop + web), a nie tylko w przeglądarce.
     2.  **Prowadzenie "na żywo" na ekranie:** Wyświetla instrukcje ("dymki") dokładnie tam, gdzie są potrzebne, w czasie rzeczywistym, reagując na działania użytkownika.
     3.  **Deterministyczne zakotwiczenie w UI:** Precyzyjnie identyfikuje elementy interfejsu (przyciski, pola tekstowe), eliminując błędy.
-    4.  **Zero-authoring i kuratowana baza wiedzy:** W przeciwieństwie do DAP, nie wymaga ręcznego tworzenia ścieżek przez administratora. Opiera się na zweryfikowanej bazie wiedzy, co eliminuje ryzyko "halucynacji" AI.
+    4.  **Zero-authoring i ana baza wiedzy:** W przeciwieństwie do DAP, nie wymaga ręcznego tworzenia ścieżek przez administratora. Opiera się na zweryfikowanej bazie wiedzy, co eliminuje ryzyko "halucynacji" AI.
     5.  **Prywatność i bezpieczeństwo by design:** Działa lokalnie, nie wymaga oddawania kontroli nad pulpitem, anonimizuje dane.
     6.  **Model biznesowy dopasowany do segmentu:** Prosta subskrypcja B2C dla rodzin (kupujący) i model B2B2C przez partnerów (UTW, banki), a nie drogie licencje enterprise.
 

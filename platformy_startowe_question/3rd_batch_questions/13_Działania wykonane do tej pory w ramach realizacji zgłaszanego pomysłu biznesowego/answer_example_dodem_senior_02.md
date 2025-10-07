@@ -1,4 +1,4 @@
-Walidacja rynkowa Dodem v1, decyzja o pivocie i zdefiniowanie nowego przedsięwzięcia Dodem v2 dla seniorów.
+tWalidacja rynkowa Dodem v1, decyzja o pivocie i zdefiniowanie nowego przedsięwzięcia Dodem v2 dla seniorów.
 
 Opracowanie BMC dla v2 oraz porównania v1 vs v2 w pliku porównanie.xlsx.
 
@@ -10,7 +10,7 @@ Zbudowanie zintegrowanego prototypu klienta na Windows i macOS oraz wsparcia dla
 
 Implementacja stabilnego przypinania wskazówek do elementów UI i modułu autopozycjonowania odpornych na przewijanie i zmianę rozmiaru okna.
 
-Uruchomienie Dodem Memory jako kuratowanej bazy wiedzy z mechanizmem RAG oraz integracjami z LLM do skracania i upraszczania instrukcji.
+Uruchomienie Dodem Memory jako bazy wiedzy z mechanizmem RAG oraz integracjami z LLM do skracania i upraszczania instrukcji.
 
 Wdrożenie privacy by design: lokalne maskowanie danych wrażliwych, brak logowania haseł, szyfrowanie w transmisji i w spoczynku, minimalna retencja.
 
@@ -25,7 +25,5 @@ Zdefiniowana oferta i kanały: B2C subskrypcja Standard 39 PLN mies. oraz Family
 Uporządkowane materiały do wniosku: skrócony opis, problem statement, uzasadnienie innowacyjności, opis segmentów, konkurencja.
 
 Kontakt operacyjny z inkubatorem i uzyskanie rekomendacji do złożenia aplikacji w trwającej rundzie.
-
-
 
 Powstanie nazwy Dodem

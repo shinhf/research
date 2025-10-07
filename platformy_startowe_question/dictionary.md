@@ -41,7 +41,7 @@
 | Lokalizacja dymka         | Bubble Positioning / Location | Określenie miejsca na ekranie, w którym wyświetlany jest dymek, zazwyczaj w odniesieniu<br /> do konkretnego elementu interfejsu użytkownika (UI).                                                                                                              |
 | Kontekst dymka            | Bubble Context                | Zbiór danych dotyczących dymka, które pozwoliły na stworzenie tekstu podpowiedzi oraz<br /> lokalizacji dymka                                                                                                                                                   |
 | Dodem Memory              | Dodem Memory                  | Wewnętrzny, zweryfikowany zbiór danych zawierający instrukcje, scenariusze i opisy<br /> interfejsów popularnych aplikacji, stanowiący źródło dla generowanych podpowiedzi.                                                                                 |
-| Dodem AI Engine           | Dodem AI Engine               | Silnik AI, który mieszanina tradycyjnego Machine Learningu, Dużych Modeli Językowych (LLM)<br /> oraz Małych Modeli Językowych (SLM)                                                                                                                          |
+| Dodem AI Engine           | Dodem AI Engine               | Silnik AI, który używa mieszankę tradycyjnego Machine Learningu, Dużych Modeli Językowych (LLM)<br /> oraz Małych Modeli Językowych (SLM) w celu uzyskania najlepszych wyników oraz optymalizacji ceny usługi                                             |
 
 ## 5. Kanały Dotarcia (Channels)
 

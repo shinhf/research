@@ -54,7 +54,7 @@ On-screen guidance na desktop i web jednocześnie bez integracji po stronie dost
 
 Deterministyczne zakotwiczenie podpowiedzi w elementach UI w czasie rzeczywistym, zgodnie z tym co widzi senior.
 
-Zero lub minimalny authoring dzięki kuratowanej bazie wiedzy i rozpoznawaniu interfejsów zamiast ręcznego budowania ścieżek.
+Zero lub minimalny authoring dziękij bazie wiedzy i rozpoznawaniu interfejsów zamiast ręcznego budowania ścieżek.
 
 Model konsumencki B2C i kanał B2B2C zaprojektowany pod 60+, z prywatnością by design i trybem offline.
 

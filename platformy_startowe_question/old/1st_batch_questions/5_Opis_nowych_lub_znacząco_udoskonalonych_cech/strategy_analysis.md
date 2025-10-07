@@ -37,7 +37,7 @@ Dla każdej kluczowej cechy produktu (rekomendowane 3-5 cech) zastosuj poniższy
 
 ### Cel strategiczny
 
-Przedstawić Dodem jako produkt o **innowacyjności co najmniej na poziomie europejskim**, koncentrując się na unikalnym połączeniu analizy interfejsu użytkownika w czasie rzeczywistym, kuratowanej bazy wiedzy ("Dodem Memory") oraz zaawansowanych mechanizmów bezpieczeństwa, zaprojektowanych specjalnie z myślą o potrzebach seniorów.
+Przedstawić Dodem jako produkt o **innowacyjności co najmniej na poziomie europejskim**, koncentrując się na unikalnym połączeniu analizy interfejsu użytkownika w czasie rzeczywistym, anej bazy wiedzy ("Dodem Memory") oraz zaawansowanych mechanizmów bezpieczeństwa, zaprojektowanych specjalnie z myślą o potrzebach seniorów.
 
 ### Analiza i mapowanie na kryteria "Start in"
 
@@ -55,7 +55,7 @@ Należy opisać 4-5 kluczowych, wzajemnie powiązanych filarów technologicznych
 *   **Aspekt Innowacyjności:** To **nowa cecha na rynku europejskim**. Konkurencyjne systemy DAP (Digital Adoption Platforms) wymagają ręcznego tworzenia ścieżek i integracji z kodem aplikacji. Dodem działa uniwersalnie, bez potrzeby współpracy z dostawcami oprogramowania (banki, ZUS), co jest przełomem w skalowalności i szybkości wdrożenia.
 *   **Wartość dla Użytkownika:** Senior otrzymuje pomoc dokładnie tam, gdzie jej potrzebuje, bez konieczności opuszczania ekranu zadania. Eliminuje to frustrację i lęk przed popełnieniem błędu.
 
-**2. "Dodem Memory" – kuratowana baza wiedzy z mechanizmem walidacji (RAG)**
+**2. "Dodem Memory" – ana baza wiedzy z mechanizmem walidacji (RAG)**
 *   **Opis Techniczny:** Zastosowanie architektury RAG (Retrieval-Augmented Generation), gdzie silnik AI nie generuje odpowiedzi swobodnie, lecz opiera się wyłącznie na zweryfikowanej, wewnętrznej bazie wiedzy. Baza ta jest budowana automatycznie z oficjalnych manuali, dokumentacji i wideo-tutoriali, a następnie przechodzi proces walidacji.
 *   **Aspekt Innowacyjności:** To **znaczące udoskonalenie** w stosunku do ogólnych modeli AI (jak ChatGPT), które są podatne na "halucynacje". Dodem gwarantuje 100% zgodność instrukcji z rzeczywistym działaniem aplikacji, co jest kluczowe w kontekście operacji finansowych czy urzędowych.
 *   **Wartość dla Użytkownika:** Pełne zaufanie i bezpieczeństwo. Senior i jego rodzina mają pewność, że podpowiedzi są zawsze poprawne i wiarygodne.

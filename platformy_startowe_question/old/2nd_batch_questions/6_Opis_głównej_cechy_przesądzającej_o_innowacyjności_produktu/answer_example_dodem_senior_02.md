@@ -8,7 +8,7 @@ Analiza kontekstu: detekcja okna, kontrolki, fokusu, zmian rozmiaru i przewijani
 
 Zakotwiczenie: overlay przypięty do konkretnego elementu UI, odporny na ruch okna i zmianę layoutu.
 
-Generowanie instrukcji: RAG z kuratowanej bazy Dodem Memory oraz szablony zadaniowe, LLM tylko do uproszczenia języka i dopasowania do kroku.
+Generowanie instrukcji: RAG z anej bazy Dodem Memory oraz szablony zadaniowe, LLM tylko do uproszczenia języka i dopasowania do kroku.
 
 Polityki jakości: walidacja treści, de-duplikacja kroków, kontrola długości, prosty rejestr błędów do retrainingu.
 

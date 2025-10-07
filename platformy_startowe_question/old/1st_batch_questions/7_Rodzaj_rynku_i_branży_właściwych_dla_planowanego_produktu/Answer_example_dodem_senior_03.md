@@ -34,7 +34,7 @@ na zestawieniach IAUTA oraz danych krajowych, bez jednego scentralizowanego
 **Propozycja wartości a rynek.** Rynek potrzebuje wsparcia kontekstowego na ekranie, działającego w
 każdej aplikacji desktopowej i w przeglądarce, bez ręcznego authoringu ścieżek.
 Naszą kluczową przewagą konkurencyjną jest uniwersalny silnik prowadzenia z
-precyzyjnym zakotwiczeniem wskazówek w elementach UI oraz kuratowana baza
+precyzyjnym zakotwiczeniem wskazówek w elementach UI oraz ana baza
 wiedzy, co przekłada się na wysoki potencjał biznesowy w segmencie konsumenckim
 60 plus i kanale instytucjonalnym B2B2C.
 
