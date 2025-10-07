@@ -1,8 +1,4 @@
-Rynek docelowy produktu obejmuje dwa komplementarne segmenty: seniorów w wieku 60+, którzy zmagają się z wykluczeniem cyfrowym i lękiem przed technologią, oraz ich rodziny (w wieku 20-50 lat), które poszukują skutecznego i bezpiecznego sposobu na zdalne wsparcie swoich bliskich. Kluczową motywacją dla seniorów jest odzyskanie cyfrowej samodzielności, podczas gdy dla ich dzieci i wnuków główną wartością jest oszczędność czasu i zapewnienie ochrony danych wrażliwych starszych członków rodziny.
-
-Oczywiście, wyjaśniam krok po kroku:
-
-Zdanie to opisuje, kto jest klientem produktu Dodem, dzieląc go na dwie główne, ale powiązane ze sobą grupy:
+Rynek docelowy produktu obejmuje dwa komplementarne segmenty: seniorów w wieku 65+, którzy zmagają się z wykluczeniem cyfrowym i lękiem przed technologią, oraz ich rodziny (w wieku 20-50 lat), które poszukują skutecznego i bezpiecznego sposobu na zdalne wsparcie swoich bliskich. Kluczową motywacją dla seniorów jest odzyskanie cyfrowej samodzielności, podczas gdy dla ich dzieci i wnuków główną wartością jest oszczędność czasu i zapewnienie ochrony danych wrażliwych starszych członków rodziny.
 
 1. __Pierwsza grupa (użytkownik końcowy): Seniorzy 65+__
 

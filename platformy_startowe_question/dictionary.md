@@ -40,7 +40,8 @@
 | Tekst podpowiedzi w dymku | Hint Text                     | Treść instrukcji wyświetlana wewnątrz dymka, która prowadzi użytkownika krok po kroku<br /> przez zadanie. Musi być zwięzła, jednoznaczna i oparta na zweryfikowanej bazie wiedzy.                                                                         |
 | Lokalizacja dymka         | Bubble Positioning / Location | Określenie miejsca na ekranie, w którym wyświetlany jest dymek, zazwyczaj w odniesieniu<br /> do konkretnego elementu interfejsu użytkownika (UI).                                                                                                              |
 | Kontekst dymka            | Bubble Context                | Zbiór danych dotyczących dymka, które pozwoliły na stworzenie tekstu podpowiedzi oraz<br /> lokalizacji dymka                                                                                                                                                   |
-| Baza wiedzy Dodem         | Dodem Knowledge Base          | Wewnętrzny, zweryfikowany zbiór danych zawierający instrukcje, scenariusze i opisy<br /> interfejsów popularnych aplikacji, stanowiący źródło dla generowanych podpowiedzi.                                                                                 |
+| Dodem Memory              | Dodem Memory                  | Wewnętrzny, zweryfikowany zbiór danych zawierający instrukcje, scenariusze i opisy<br /> interfejsów popularnych aplikacji, stanowiący źródło dla generowanych podpowiedzi.                                                                                 |
+| Dodem AI Engine           | Dodem AI Engine               | Silnik AI, który mieszanina tradycyjnego Machine Learningu, Dużych Modeli Językowych (LLM)<br /> oraz Małych Modeli Językowych (SLM)                                                                                                                          |
 
 ## 5. Kanały Dotarcia (Channels)
 
