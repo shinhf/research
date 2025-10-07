@@ -1,0 +1,308 @@
+3 wersja na podstawie gpt5 deep research 
+4 ręcznie na podstawie manualnego czytania
+
+Strategia odpowiadania na pytania
+ilosc danych
+Jakie dane
+Strategia ogólna 
+Strategia szczegółowa
+
+
+Zebac strategie
+pogrupowac pytania
+
+
+
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement
+Opis problemów/potrzeb rynkowych, na które odpowiadać będzie produkt w sposób konkurencyjny wobec funkcjonujących rozwiązań
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\strategy_analysis.md
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\suggestions_for_improvement_01.md
+
+@/1st_batch_questions\5_Opis_nowych_lub_znacząco_udoskonalonych_cech
+Opis nowych lub znacząco udoskonalonych cech i funkcjonalności planowanego produktu, przesądzających o jego innowacyjności
+@/1st_batch_questions\5_Opis_nowych_lub_znacząco_udoskonalonych_cech\strategy_analysis.md
+@/1st_batch_questions\5_Opis_nowych_lub_znacząco_udoskonalonych_cech\suggestions_for_improvement_01.md
+
+@/1st_batch_questions\7_Rodzaj_rynku_i_branży_właściwych_dla_planowanego_produktu
+Rodzaj rynku i branży właściwych dla planowanego produktu
+
+
+@/1st_batch_questions\8_Charakterystyka_segmentu_klientów_do_których_kierowany_będzie_produkt
+Charakterystyka segmentu klientów, do których kierowany będzie produkt
+
+
+
+@/1st_batch_questions\9_Opis_profilu_klienta_docelowego
+Opis profilu klienta docelowego
+
+
+@/1st_batch_questions\10_Opis_oferty_konkurencji
+Opis oferty konkurencji
+
+-----------
+
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Pytanie do analizy:
+Rodzaj rynku i branży właściwych dla planowanego produktu
+
+Przygotuj 
+- generyczną/ogólną strategię odpowiedzenia na pytanie
+- szczegółową (w oparciu o projekt biznesowy Dodem )  strategię odpowiedzenia na pytanie
+
+Bazują na regulaminie i punktacji @/start_in
+
+Przykładowe odpowiedzi są w @/1st_batch_questions\7_Rodzaj_rynku_i_branży_właściwych_dla_planowanego_produktu , ale możesz posiłkować się własną wiedzą.
+
+Informacje o projekcie oraz dane statystyczne dostępne na @/dodem_senior
+
+Przygotuj plik @/1st_batch_questions\7_Rodzaj_rynku_i_branży_właściwych_dla_planowanego_produktu\strategy_analysis.md
+
+------------------
+
+Na podstawie analizy @/1st_batch_questions\7_Rodzaj_rynku_i_branży_właściwych_dla_planowanego_produktustrategy_analysis.md podaj 3 sugestie jak bardziej poprawić odpowiedź:
+@/1st_batch_questions\7_Rodzaj_rynku_i_branży_właściwych_dla_planowanego_produktu\Answer_example_dodem_senior_02.md
+
+Przygotuj sugestie w: @/1st_batch_questions\7_Rodzaj_rynku_i_branży_właściwych_dla_planowanego_produktu\suggestions_for_improvement_01.md
+
+----------------
+
+Can you review how well were implemented recomendations from:
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\suggestions_for_improvement_01.md
+
+in the file
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\Answer_example_dodem_senior_03.md
+
+Informacje o Dodem @/dodem_senior
+Regulaminie i punktacji @/start_in
+Informacje o pytaniu: @/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement
+
+Audiencja docelowa to osoba nietechniczna, która jest analitykiem startupów
+
+--------------------
+
+Czy to jest branża Agetech czy Digital adoption platform?
+
+Informacje o Dodem @/dodem_senior
+Regulaminie i punktacji @/start_in
+Informacje o pytaniu: @/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement
+
+Audiencja docelowa to osoba nietechniczna, która jest analitykiem startupów
+
+
+------------------------
+
+Jestes oceniajacym, bardzo krytycznym, drobiazgowym
+
+masz takie kryteria
+
+O Dodem 
+Dodem to asystent, który wyświetla proste podpowiedzi bezpośrednio na ekranie komputera, prowadząc seniora krok po kroku przez obsługę bankowości online czy portali urzędowych. Dzięki temu, że działa w każdej aplikacji bez potrzeby jej modyfikacji i korzysta z własnej, zweryfikowanej bazy wiedzy, zapewnia precyzyjne i bezpieczne wskazówki, dając starszym osobom poczucie cyfrowej samodzielności. Celem jest aby senior myślał, że za jego plecami stoi trener/mentor, który pokazuje mu jak gdzie kliknąć w bezpiecznym dla niego środowisku.
+
+Pytanie:
+Na ile ocenilbys dany projekt?
+
+
+-------------------
+
+Czy możesz przetłumaczy poniższe dokumenty na angielski:
+
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\Answer_example_dodem_senior_04.md
+@/1st_batch_questions\5_Opis_nowych_lub_znacząco_udoskonalonych_cech\Answer_example_dodem_senior_04.md
+@/1st_batch_questions\8_Charakterystyka_segmentu_klientów_do_których_kierowany_będzie_produkt\Answer_example_dodem_senior_04.md
+@/1st_batch_questions\9_Opis_profilu_klienta_docelowego\Answer_example_dodem_senior_04.md
+@/1st_batch_questions\1_Skrócony_opis_pomysłu\Answer_example_dodem_senior_04.md
+@/1st_batch_questions\2_Opis_zgłaszanego_pomysłu_biznesowego\answer_example_dodem_senior_02.md
+
+I połaczyc to w jeden dokument?
+
+
+----------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Czy możesz popracowac nad uzupełnieniem tableli słownika:
+@/dictionary.md  bazując na informacjach o projekcie Dodem @/dodem_senior
+
+-------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Can you review below TAM/SAM/SOM/ Early adoppters definition. 
+Can you add any more population to below list? 
+
+TAM	Seniors in the World with low digital skills
+SAM	Seniors in English speaking developed countries
+	Seniors in Polish speaking countries
+SOM	Seniors attending Third Age University
+	Seniors attending courses from NGOs, library and culture centre
+	Seniors having an email account
+	Seniors  living in Care Facilities and Retirement Communities
+	Seniors involved in Online Social Platforms
+	Seniors having a bank account
+Early Adopters	Seniors in Poland who have IT-working children or grandchildren
+	Seniors in English speaking country who have IT-working children or grandchildren
+
+------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Can you calculate population for below TAM/SAM/SOM
+
+
+TAM	Seniors in the World with low digital skills
+SAM	Seniors in English speaking developed countries
+	Seniors in Polish speaking countries
+SOM	Seniors attending Third Age University
+	Seniors attending courses from NGOs, library and culture centre
+	Seniors having an email account
+	Seniors  living in Care Facilities and Retirement Communities
+	Seniors involved in Online Social Platforms
+	Seniors having a bank account
+Early Adopters	Seniors in Poland who have IT-working children or grandchildren
+	Seniors in English speaking country who have IT-working children or grandchildren
+
+Provide it using template:
+
+Value	Name	Area	Date	Calculated_name	Description	Link	Comments
+1 100 000 000	Number of seniors	World	2022	number_of_seniors_world_2022	Według UN WPP liczba osób w wieku 60+ wyniosła ok. 1 078 000 000 w połowie 2022 r.	https://population.un.org/dataportal/	Population by age and sex - broad age groups
+
+
+-------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Dokładnie zbadaj  Senior_BMC.docx i porównaj czy informacje zawarte w BMC utrzymuja odpowiednie słownictwo z  dictionary.md
+
+-----------------
+
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Dokładnie zbadaj   @/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\Answer_example_dodem_senior_04.md i porównaj czy informacje zawarte w BMC utrzymuja odpowiednie słownictwo z  @/dictionary.md
+
+---------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Ulepsz @/1st_batch_questions\5_Opis_nowych_lub_znacząco_udoskonalonych_cech\Answer_example_dodem_senior_04.md 
+- w opatciu o @/dictionary.md
+- kryteria of @/start_in/
+
+Zapisz nową wersję 
+@/1st_batch_questions\5_Opis_nowych_lub_znacząco_udoskonalonych_cech\Answer_example_dodem_senior_05.md 
+
+
+----------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+W oparciu o plan:
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\strategy_analysis.md
+
+Oraz informacje:
+- w opatciu o @/dictionary.md
+- opis projektu @/dodem_senior/
+- kryteria of @/start_in/
+
+Przygotuj odpowiedz na pytanie o rodzaj rynku i branży właściwych dla planowanego przedsięwzięcia i umieść odpowiedź w 
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\Answer_example_dodem_senior_04.md 
+
+-------------------------
+W odpowiedzi: 
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\Answer_example_dodem_senior_04.md 
+
+Brakuje mi statystyk, które umieściłem w 
+@/1st_batch_questions\3_Opis_problemów_i_potrzeb_rynkowych_Problem_Statement\strategy_analysis.md
+
+-------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Potrzebuję odpowiedzi na pytanie:
+Opis zgłaszanego pomysłu biznesowego
+
+Nie odpowiadaj tylko przygotuj strategię odpowiedzi i zapisz ją:
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\strategy_analysis.md
+
+Materiały:
+Podstawie odpowiedzi z @/1st_batch_questions
+kryteria odpowiedzi @/start_in/
+
+Przykłady
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego
+
+Słownictwo w oparciu o @/dictionary.md
+
+------------------------------------
+
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Pytanie do analizy:
+Opis zgłaszanego pomysłu biznesowego
+
+Przygotuj odpowiedz na podstawie:
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\strategy_analysis.md
+
+Materiały:
+kryteria odpowiedzi @/start_in/
+
+Słownictwo w oparciu o @/dictionary.md
+Statystyki: @/senior_statistics.md
+
+Zapisz odpowiedz w:
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\answer_example_dodem_senior_03.md
+
+----------------------------------
+Jesteś analitykiem i specjalistą w dziedzinie startupów z 10-letnim doświadczeniem. Posiadasz również wiedzę i doświadczenie w zakresie Business Model Canvas. Jestes specjalista od regulaminów związanych z pomoca publiczną w polsce.
+Twoja praca jest szczegółowa, dokładna, dogłębna i złożona, przy jednoczesnym zachowaniu jasności i zwięzłości.
+
+Pytanie do analizy:
+Opis zgłaszanego pomysłu biznesowego
+
+Zapisz odpowiedz w:
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\answer_example_dodem_senior_04.md
+
+Przygotuj odpowiedz na podstawie:
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\strategy_analysis.md
+
+
+Materiały:
+kryteria odpowiedzi @/start_in/
+Podstawie odpowiedzi z @/1st_batch_questions
+Słownictwo w oparciu o @/dictionary.md
+Statystyki: @/senior_statistics.md
+
+
+
+Uwagi do odpowiedzi:
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\answer_example_dodem_senior_03.md
+
+
+
+
+
+----------
+
+Jestes oceniajacym, bardzo krytycznym, drobiazgowym.
+
+masz takie kryteria odpowiedzi @/start_in/
+
+O Dodem 
+Dodem to asystent, który wyświetla proste podpowiedzi bezpośrednio na ekranie komputera, prowadząc seniora krok po kroku przez obsługę bankowości online czy portali urzędowych. Dzięki temu, że działa w każdej aplikacji bez potrzeby jej modyfikacji i korzysta z własnej, zweryfikowanej bazy wiedzy, zapewnia precyzyjne i bezpieczne wskazówki, dając starszym osobom poczucie cyfrowej samodzielności. Celem jest aby senior myślał, że za jego plecami stoi trener/mentor, który pokazuje mu jak gdzie kliknąć w bezpiecznym dla niego środowisku.
+
+Pytanie:
+Na ile ocenilbys dany projekt?
+@/2nd_batch_questions/2_Opis_zgłaszanego_pomysłu_biznesowego\answer_example_dodem_senior_04.md
+Podstawie odpowiedzi z @/1st_batch_questions

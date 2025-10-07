@@ -1,0 +1,9 @@
+Dodem adresuje lukę o skali demograficznej. Na świecie żyje ok. 1 078 000 000 osób 60 plus. W UE w wieku 65-74 podstawowe umiejętności cyfrowe ma jedynie 25-34 procent, co oznacza deficyt 66-75 procent. W krajach anglojęzycznych populacja 60 plus to ok. 110 mln, a operacyjny SAM dla pierwszych rynków szacujemy konserwatywnie na 60,6 mln.
+
+Nowość technologiczna to kontekstowe wsparcie na ekranie w czasie rzeczywistym z deterministycznym przypinaniem podpowiedzi do elementów UI. Trzy filary: klient systemowy Windows i macOS, silnik AI integrujący LLM do krótkich instrukcji zadaniowych oraz kuratowana baza Dodem Memory z oficjalnych manuali i PDF. Architektura privacy by design obejmuje lokalne maskowanie danych, szyfrowanie w transmisji i w spoczynku, minimalną retencję i brak logów haseł. Tryb offline zapewnia co najmniej 70 procent pokrycia typowych scenariuszy.
+
+Skalowalność zapewniają kanały marketplace oraz sieci instytucji. Globalnie działa ok. 100 000 UTW, w krajach rozwiniętych ok. 20 000. Cel pilotaży to 10 procent tej bazy czyli 2 000 jednostek. Dodatkowo około 50 000 centrów kultury i community centers, z planem penetracji 5 procent czyli 2 500 partnerstw. Mechanizm jest powtarzalny, wymaga głównie lokalizacji treści.
+
+Standard jakości definiują twarde KPI: czas dostarczenia podpowiedzi do 1,5 sekundy, trafność co najmniej 95 procent, SLA 99,9 procent co odpowiada ok. 8,8 godziny niedostępności rocznie, pokrycie offline co najmniej 70 procent, CSAT co najmniej 90 procent. Cele efektowe: redukcja błędów użytkowników o 60 procent, skrócenie czasu nauki o 40 procent, adopcja po 7 dniach co najmniej 80 procent.
+
+Ekonomia jednostkowa jest skalowalna. ARPU 47,1 PLN miesięcznie, LTV około 424 PLN, CAC około 120 PLN, relacja LTV do CAC około 3,5. CAPEX uruchomienia 280 000 PLN, OPEX pełnego rozbiegu około 340 000 PLN miesięcznie. To fundament do replikowalnych wdrożeń krajowych i międzynarodowych.

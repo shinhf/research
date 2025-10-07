@@ -1,0 +1,28 @@
+| polska nazwa                              | angielska nazwa                | definicja                                                                                                                                                                                                                                                                                                   |
+| :---------------------------------------- | :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| dymek                                     | bubble, tooltip                | Graficzna podpowiedź w formie pola tekstowego oraz strzałki wskazującej miejsce na ekranie.                                                                                                                                                                                                              |
+| podpowiedz                                | hint                           | Treść instrukcji lub sugestii, która pomaga użytkownikowi wykonać określone zadanie umieszczona w dymku                                                                                                                                                                                               |
+| kontekst podpowiedzi                      | hint context                   | Zbiór informacji definiujących potrzebę udzielenia podpowiedzi, obejmujący cel użytkownika,<br /> treść i cel zadania, bieżącą sytuację na ekranie (aktywna aplikacja, położenie kursora), historię interakcji<br /> oraz stan powiązanych systemów.                                        |
+| tekst podpowiedzi w dymku                 | hint text                      | Treść instrukcji wyświetlana wewnątrz dymka, która prowadzi użytkownika krok po kroku przez zadanie.<br />Musi być zwięzła, jednoznaczna i oparta na zweryfikowanej bazie wiedzy.                                                                                                                  |
+| lokalizacja dymka                         | positioning, location of buble | Określenie miejsca na ekranie, w którym wyświetlany jest dymek, zazwyczaj w odniesieniu do konkretnego<br />elementu interfejsu użytkownika (UI).                                                                                                                                                       |
+| kontekst dymka                            | bubble context                 | Zbiór danych dotyczących dymka, które pozwoliły na stworzenie tekstu podpowiedzi oraz lokalizacji dymka.                                                                                                                                                                                                |
+| personalizacja podpowiedzi<br />w dymku   | personalized hint              | Dostosowanie treści, formy lub częstotliwości podpowiedzi do indywidualnych cech użytkownika,<br />takich jak jego poziom zaawansowania, historia interakcji czy tempo nauki.                                                                                                                           |
+| inteligentna częstotliwość podpowiedzi | smart hint frequency           | Mechanizm dynamicznego dostosowywania częstości pojawiania się podpowiedzi, bazujący na analizie<br /> zachowania użytkownika (np. szybkości wykonywania zadań, popełnianych błędów), aby unikać <br />nadmiernej pomocy i wspierać samodzielność.                                           |
+| kontekstowe podpowiedzi w dymku           | contextual hints               | Podpowiedzi, których treść i moment pojawienia się są precyzyjnie dostosowane do bieżącej<br /> sytuacji użytkownika na ekranie, jego celu oraz historii wcześniejszych działań.                                                                                                                 |
+| interaktywna lokalizacja dymka            | interactive bubble positioning | Zaawansowany mechanizm dynamicznego dostosowywania pozycji dymka na ekranie w czasie rzeczywistym,<br />który reaguje na zmiany w interfejsie, takie jak przewijanie strony, zmiana rozmiaru okna<br /> czy pojawienie się nowych elementów, aby zawsze precyzyjnie wskazywać właściwe miejsce akcji. |
+
+Problem:
+
+opisywanie funkcjonalności dymka:
+
+personalizowanie podpowiedzi czy inteligentne podpowiedzi czy interaktywne (w stosunku do treści czy rozmieszczenia). Warto być przy tym spójnym
+
+**Rekomendacja analityka:**
+
+W celu zapewnienia spójności i precyzji komunikacji, proponuję następujące rozróżnienie terminologiczne, bazując na analizie projektu "Dodem":
+
+1. **Podpowiedzi kontekstowe (Contextual Hints):** To termin nadrzędny, opisujący kluczową wartość produktu. Oznacza, że *wszystkie* podpowiedzi są inteligentnie dopasowane do sytuacji.
+2. **Personalizacja podpowiedzi (Personalized Hints):** Odnosi się do *treści* i *częstotliwości* podpowiedzi, które są dostosowane do *indywidualnego użytkownika* (jego wiedzy, tempa nauki).
+3. **Interaktywna lokalizacja (Interactive Positioning):** Odnosi się do *umiejscowienia* dymka na ekranie, które dynamicznie reaguje na zmiany w interfejsie.
+
+**Użycie w praktyce:** "System Dodem dostarcza **podpowiedzi kontekstowe**. Osiąga to poprzez **personalizację** ich treści oraz **interaktywną lokalizację** dymka na ekranie." Taki podział jest logiczny, precyzyjny i dobrze oddaje innowacyjność rozwiązania.
