@@ -23,25 +23,25 @@ Value	Name	Area	Date	Calculated_name	Description	Link	Comments
 
 Wskaźnik	Podana wartość	Weryfikacja i dostępne dane	Źródło
 
-TAM_global (seniorzy 60+ na świecie)	1 100 000 000	Według UN WPP liczba osób w wieku 60+ wyniosła ok. 1 078 000 000 w połowie 2022 r.	United Nations, World Population Prospects 2022, tabela „Population by age” (mid-2022): https://population.un.org/wpp/DataQuery/ 
+TAM_global (seniorzy 65+ na świecie)	900000000	Według UN WPP liczba osób w wieku 65+ wyniosła ok. 900 mln 2022 r.	United Nations, World Population Prospects 2022, tabela „Population by age” (mid-2022): https://population.un.org/wpp/DataQuery/ 
 
-SAM_basic_skills_deficit (seniorzy 60+ bez podstawowych umiejętności)	303 000 000 (27,5% TAM)	Brak globalnych danych. W UE (65–74 lat) odsetek posiadających podstawowe umiejętności cyfrowe wyniósł 34% wśród mężczyzn i 25% wśród kobiet (czyli deficyt ~ 66–75%).	Eurostat, „Digital skills in 2023: impact of education and age” (22.02.2024): https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240222-1 
+SAM_basic_skills_deficit (seniorzy 65+ bez podstawowych umiejętności)	303 000 000 (27,5% TAM)	Brak globalnych danych. W UE (65–74 lat) odsetek posiadających podstawowe umiejętności cyfrowe wyniósł 34% wśród mężczyzn i 25% wśród kobiet (czyli deficyt ~ 66–75%).	Eurostat, „Digital skills in 2023: impact of education and age” (22.02.2024): https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240222-1 
 
-SAM_developed_english (seniorzy 60+ w krajach rozwiniętych i anglojęzycznych)	60 600 000	Sumaryczna liczba seniorów 60+ w USA (82 mln), Wielkiej Brytanii (15 mln), Kanadzie (6 mln), Australii (6 mln) i Nowej Zelandii (1 mln) wynosi ok. 110 mln.	United Nations, World Population Prospects 2022 – dane o populacji 60+ według kraju; zapytanie w Data Query: https://population.un.org/wpp/DataQuery/ 
+SAM_developed_english (seniorzy 65+ w krajach rozwiniętych i anglojęzycznych)	60 600 000	Sumaryczna liczba seniorów 65+ w USA (82 mln), Wielkiej Brytanii (15 mln), Kanadzie (6 mln), Australii (6 mln) i Nowej Zelandii (1 mln) wynosi ok. 110 mln.	United Nations, World Population Prospects 2022 – dane o populacji 65+ według kraju; zapytanie w Data Query: https://population.un.org/wpp/DataQuery/ 
 
 SOM_2_3y (10% osiągalne w 2–3 lata)	6 060 000	Brak bezpośrednich prognoz 2–3-letnich; wymaga modelowania biznesowego.	— brak publicznie dostępnych danych w takiej perspektywie czasowej —
 
 Adopcja w UTW (U3A)	TAM = 11 000 000 (1% seniorów)	Światowa liczba uczestników U3A (Uniwersytetów Trzeciego Wieku) nie jest zbiorczo publikowana. Wiadomo, że w Polsce działa ok. 700 UTW z 200 000 słuchaczy.	Wikipedia, „University of the Third Age”: https://en.wikipedia.org/wiki/University_of_the_Third_Age  ; IAUTA – International Association of Universities of the Third Age: https://www.aiu3a.org/ 
 
-Adopcja w domach kultury / community centers	SAM = 2 000 000 (2–3% seniorów)	Brak agregowanych danych globalnych. W UE szkolenia w centrach lokalnych obejmują zwykle 2–3% populacji 60+ w regionach objętych programami.	Eurostat i krajowe raporty o e-umiejętnościach; przykładowo: „Digital Skills Indicator” (isoc_sk_dskl_i21) na Eurostacie: https://ec.europa.eu/eurostat/databrowser/bookmark/80232326-7bff-4163-9276-88f6b6142515?lang=en 
+Adopcja w domach kultury / community centers	SAM = 2 000 000 (2–3% seniorów)	Brak agregowanych danych globalnych. W UE szkolenia w centrach lokalnych obejmują zwykle 2–3% populacji 65+ w regionach objętych programami.	Eurostat i krajowe raporty o e-umiejętnościach; przykładowo: „Digital Skills Indicator” (isoc_sk_dskl_i21) na Eurostacie: https://ec.europa.eu/eurostat/databrowser/bookmark/80232326-7bff-4163-9276-88f6b6142515?lang=en 
 
-Penetracja UTW (1% populacji 60+ w krajach rozwiniętych)	1%	Brak danych globalnych. W Polsce udział słuchaczy UTW w populacji 60+ wynosi ~0,5–1%.	Dane ministerialne i krajowe instytuty statystyki (GUS) — brak scentralizowanego zestawienia międzynarodowego.
+Penetracja UTW (1% populacji 65+ w krajach rozwiniętych)	1%	Brak danych globalnych. W Polsce udział słuchaczy UTW w populacji 65+ wynosi ~0,5–1%.	Dane ministerialne i krajowe instytuty statystyki (GUS) — brak scentralizowanego zestawienia międzynarodowego.
 
-Penetracja Community Centers (2–3% populacji 60+ w regionach aktywnych kulturalnie)	2–3%	Brak danych globalnych. W UE lokalne centra kultury/cyfrowe osiągają takie udziały w populacjach lokalnych (raporty dot. inkluzji cyfrowej).	Eurostat i raporty krajowe nt. lokalnej edukacji cyfrowej (np. raporty NGO, ministerstw kultury).
+Penetracja Community Centers (2–3% populacji 65+ w regionach aktywnych kulturalnie)	2–3%	Brak danych globalnych. W UE lokalne centra kultury/cyfrowe osiągają takie udziały w populacjach lokalnych (raporty dot. inkluzji cyfrowej).	Eurostat i raporty krajowe nt. lokalnej edukacji cyfrowej (np. raporty NGO, ministerstw kultury).
 
-Demografia – wiek 60–80	–	Standardowo grupę seniorów definiuje się jako 60+ (lub 65+). Zakres 60–80 lat jest arbitralny.	WHO, „Ageing and health” (01.10.2024): https://www.who.int/news-room/fact-sheets/detail/ageing-and-health 
+Demografia – wiek 60–80	–	Standardowo grupę seniorów definiuje się jako 65+ (lub 65+). Zakres 60–80 lat jest arbitralny.	WHO, „Ageing and health” (01.10.2024): https://www.who.int/news-room/fact-sheets/detail/ageing-and-health 
 
-Demografia – podział płci 55%K / 45%M	55% / 45%	Kobiety stanowią 54% populacji 60+ globalnie, mężczyźni 46%.	WHO, „Ageing and health” (01.10.2024): https://www.who.int/news-room/fact-sheets/detail/ageing-and-health 
+Demografia – podział płci 55%K / 45%M	55% / 45%	Kobiety stanowią 54% populacji 65+ globalnie, mężczyźni 46%.	WHO, „Ageing and health” (01.10.2024): https://www.who.int/news-room/fact-sheets/detail/ageing-and-health 
 
 Dochód dysponowalny: niski–średni	–	Ogólnodostępne dane OECD/UNESCO pokazują, że seniorzy w wielu krajach utrzymują się z emerytur na poziomie 30–60% mediany krajowego dochodu.	OECD, Retirement Income Statistics; brak jednego globalnego zbiorczego źródła.
 
@@ -60,7 +60,7 @@ Weryfikacja i źródła danych
 
 TAM (Total Addressable Market): ~1 000 000 000
 
-– Źródło: Globalna populacja osób w wieku 60+ według danych ONZ, World Population Prospects 2024, Population Division, UN DESA. Wynika stamtąd, że w 2020 r. populacja 60+ wynosiła ok. 1 mld, a w 2025 osiągnie około 1,2 mld.
+– Źródło: Globalna populacja osób w wieku 65+ według danych ONZ, World Population Prospects 2024, Population Division, UN DESA. Wynika stamtąd, że w 2020 r. populacja 65+ wynosiła ok. 1 mld, a w 2025 osiągnie około 1,2 mld.
 
 – Odnośnik:
 
